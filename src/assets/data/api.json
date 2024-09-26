@@ -1,0 +1,40 @@
+[
+    {
+      "id": 1,
+      "title": "Limpiar la cocina ",
+      "description": "Fregar los platos despues de comer y limpiar la encimera, la cocina y el suelo",
+      "steps": "enjabonar, aclarar y escurrirr los platos, vasos",
+      "category": "Limpieza hogar",
+      "clues": "icons",
+      "frecuency": "2 veces por semana"
+    },
+    {
+      "id": 2,
+      "title": "Ir a la asociación ",
+      "description": "Salir de casa y coger el autobús N25 que ",
+      "steps": {
+        "1": "Recuerda coger llaves, cartera y la tarjeta del autobús.",
+        "2":"Camina hasta la parada.",
+        "3": "Toma el autobús n25 en dirección a la asociación",
+        "4": "Baja del autobús en la Avda. Constitución y caminahasta la asociación"
+      },
+      "category": "Fuera de casa",
+      "clues": "icons",
+      "frecuency": "2 veces por semana"
+    },
+    {
+      "id": 3,
+      "title": "Preparar la cena ",
+      "description": "Hacer pizza para cenar los miércoles",
+      "steps": {
+        "1": "Consultar la receta.",
+        "2":"Preparar los materiales: Báscula, rodillo, bandeja, sartén y horno",
+        "3": "Preparar ingredientes y seguir la receta",
+        "4": "Hornear"
+      },
+      "category": "Cocinando",
+      "clues": "icons",
+      "frecuency": "1 vez  semana"
+    }
+
+]
